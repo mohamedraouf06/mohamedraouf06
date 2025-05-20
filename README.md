@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 ⚡I’m a Frontend Developer with 2 years of experience. I work with HTML, CSS, JavaScript, React, and Next.js,<br>using tools like Tailwind, Bootstrap, Material UI, and Framer Motion. I’m skilled in Redux and NextAuth, and I<br>focus on improving user experience and site speed. I write clean code and stay updated with the latest tech<br>to deliver solutions that fit each project .
 
 
